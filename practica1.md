@@ -52,7 +52,7 @@ El comando *fork* nos permite crear una copia de un repositorio en nuestra cuent
     PS C:\Users\gonza\OneDrive - Universidad Pontificia Comillas\Escritorio\Practica-1> git add prueba.py
 
     ```
-    Hemos hecho un add de los dos archivos que hemos modificado y ahora si hacemos un git status, vemos que ahora aparecen como Changes to be committed:
+    Hemos hecho un add del archivo que hemos modificado y ahora si hacemos un git status, vemos que ahora aparecen como Changes to be committed:
     ```
     PS C:\Users\gonza\OneDrive - Universidad Pontificia Comillas\Escritorio\Practica-1> git status
     On branch main
