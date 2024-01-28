@@ -44,7 +44,6 @@ El comando *fork* nos permite crear una copia de un repositorio en nuestra cuent
 
     no changes added to commit (use "git add" and/or "git commit -a")
     ```
-    Como vemos en el log, tenemos dos archivos que han sido modificados no están staged para el commit (es decir que hay que hacer un add para que estén listos para el commit). Para obtener esto estoy mirando el repositorio desde el cual estoy haciendo la página web de la práctica 2.
 
 * **Git add:** Este comando agrega archivos al área de stage, donde se preparan para ser confirmados en el próximo commit.
     
