@@ -103,6 +103,8 @@ El comando *fork* nos permite crear una copia de un repositorio en nuestra cuent
 
 ## **Instalaciones en el equipo:**
 * Java 17: El año pasado en la clase de POO ya instalamos Java.  ![Java](assets/java.png)
-* Maven: para instalar maven he usado Homebrew: ![Maven](assets/maven_install.png)
+* Maven: para instalar maven he usado Homebrew: ![Maven](assets/maven.png)
 * Editor de código fuente (**VsCode**): Visual Studio Code es el editor de código que llevo usando desde hace muchos años tanto como para programar como para escribir documentos en Markdown.
 ![VsCode](assets/VsCode.png)
+* Editor de código fuente (**IntelliJ Idea**):
+![Intellij](assets/Intellij.png)
